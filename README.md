@@ -47,3 +47,9 @@ Navegador moderno com suporte a ES6+.
 
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, fazer forks ou enviar pull requests com melhorias.
+
+![movie-01](https://github.com/RCysne/rocketmovie/blob/main/src/assets/movie-01.png)
+![movie-02](https://github.com/RCysne/rocketmovie/blob/main/src/assets/movie-02.png)
+![movie-03](https://github.com/RCysne/rocketmovie/blob/main/src/assets/movie-03.png)
+![movie-04](https://github.com/RCysne/rocketmovie/blob/main/src/assets/movie-04.png)
+![movie-05](https://github.com/RCysne/rocketmovie/blob/main/src/assets/movie-05.png)
