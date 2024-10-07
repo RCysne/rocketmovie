@@ -1,8 +1,49 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# RocketMovie App
 
-Currently, two official plugins are available:
+Este é um projeto de uma aplicação de acompanhamento de filmes desenvolvida com HTML, CSS, JavaScript, ReactJS, Vite, React Router e Styled-components. A aplicação apresenta telas não funcionais, como login, criação de conta, e perfil, utilizando temas globais para padronização e temas específicos para cada tela.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Funcionalidades
+Login
+Criação de conta
+Perfil do usuário
+Página inicial de acompanhamento de filmes
+
+Utilização de temas globais para padronizar o estilo do projeto.
+Temas específicos para cada tela, garantindo uma identidade visual única para cada seção.
+
+Tecnologias Utilizadas
+HTML: Estruturação do conteúdo.
+CSS: Estilização e layout.
+JavaScript: Lógica e interatividade.
+ReactJS: Biblioteca para criação de interfaces de usuário.
+Vite: Ferramenta de build rápida para desenvolvimento com React.
+React Router: Gerenciamento de rotas para navegação entre as páginas.
+Styled-components: Criação de componentes de estilo com suporte a temas globais e específicos.
+
+
+Como Utilizar
+Clone este repositório:
+bash
+Copiar código
+git clone https://github.com/RCysne/rocketmovie.git
+Navegue até o diretório do projeto e instale as dependências:
+
+bash
+Copiar código
+cd rocketmovie
+npm install
+Inicie o servidor de desenvolvimento:
+
+bash
+Copiar código
+npm run dev
+Acesse a aplicação no navegador em http://localhost:5173.
+
+Requisitos
+Node.js instalado.
+Navegador moderno com suporte a ES6+.
+
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, fazer forks ou enviar pull requests com melhorias.
